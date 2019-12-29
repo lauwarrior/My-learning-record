@@ -5,7 +5,7 @@
 
   * ##### 01-Web安全
 
-    * [001_第⼀周—学籍备案以及环境准备](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全/001_第⼀周—学籍备案以及环境准备.md)   
+    * [001_第⼀周—学籍备案以及环境准备](/01-信安小白计划/01-Web安全/001_第⼀周—学籍备案以及环境准备.md)   
     * [002_第二周—认识sql并学习数据库的基础操作](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全002_第二周—认识sql并学习数据库的基础操作.md)  
     * [003_第三周—数据库系统表相关学习](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全/003_第三周—数据库系统表相关学习.md)  
     * [004_第四周—数据库系统功能相关学习](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全/004_第四周—数据库系统功能相关学习/.md)  
