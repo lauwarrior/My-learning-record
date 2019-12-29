@@ -1,7 +1,68 @@
 # -
-信安之路学习记录
------------------------------
-# 传送门 <br>
-  * [001 第一周学习:学籍备案以及环境准备](https://github.com/lauwarrior/My-learning-record/blob/master/001%20%E7%AC%AC%E2%BC%80%E5%91%A8%E2%80%94%E5%AD%A6%E7%B1%8D%E5%A4%87%E6%A1%88%E4%BB%A5%E5%8F%8A%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87%E2%80%94Dave_007%E2%80%94Dave_007.md)
- * [002 第二周—认识 sql 并学习数据库的基础操作](https://github.com/lauwarrior/My-learning-record/blob/master/002%20%E7%AC%AC%E4%BA%8C%E5%91%A8%E2%80%94%E8%AE%A4%E8%AF%86%20sql%20%E5%B9%B6%E5%AD%A6%E4%B9%A0%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C%E2%80%94Dave_007%E2%80%94848.md)
-* [003 第三周—数据库系统表相关学习](https://github.com/lauwarrior/My-learning-record/blob/master/003%20%E7%AC%AC%E4%B8%89%E5%91%A8%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E8%A1%A8%E7%9B%B8%E5%85%B3%E5%AD%A6%E4%B9%A0.md)
+### 信安之路学习记录
+
+* #### 01-信安小白计划
+
+  * ##### 01-Web安全
+
+    * [001_第⼀周—学籍备案以及环境准备](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全/001_第⼀周—学籍备案以及环境准备.md)   
+    * [002_第二周—认识sql并学习数据库的基础操作](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全002_第二周—认识sql并学习数据库的基础操作.md)  
+    * [003_第三周—数据库系统表相关学习](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全/003_第三周—数据库系统表相关学习.md)  
+    * [004_第四周—数据库系统功能相关学习](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全/004_第四周—数据库系统功能相关学习/.md)  
+    * [005_第六周—数据库相关注入语句的收集和学习](https://github.com/lauwarrior/My-learning-record/01-信安小白计划/01-Web安全/005_第六周—数据库相关注入语句的收集和学习.md)  
+
+  * ##### 02-渗透测试
+
+    * 暂未学习 
+
+  * ##### 03-红蓝对抗
+
+    * 暂未学习  
+
+  * ##### 04-学二进制
+
+    * 暂未学习  
+
+  * ##### 05-病毒分析
+
+    * 暂未学习  
+
+  * ##### 06-安全建设
+
+    * 暂未学习 
+
+  * ##### 07-应急响应  
+
+    * 暂未学习 
+
+  * ##### 08-成长经验
+
+    * 暂未学习 
+
+  * ##### 09-安全工具
+
+    * 暂未学习 
+
+* #### 02-靶机实战
+
+  * ##### 01-VulnHub
+
+    * 暂未学习 
+
+* #### 03-Python学习
+
+  * 暂未学习 
+
+* #### 04-网络建站
+
+  * 暂未学习 
+
+* #### 05-kali学习
+
+  * 暂未学习 
+
+* #### 06-其他
+
+  * [001_使用hexo+github搭建免费个人博客详细教程(转载)](https://lauwarrior.github.io/06-其他/001_使用hexo+github搭建免费个人博客详细教程(转载)/index.html)  
+  * [002_利用github和hexo搭建个人博客](https://lauwarrior.github.io/06-其他/002_利用github和hexo搭建个人博客/index.html)  
+
